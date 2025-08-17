@@ -1,0 +1,501 @@
+id,title,release_year,genres,director,runtime,imdb_rating,vote_count
+1,Forrest Gump ,1994,Crime|Drama, Frank Darabont,178,8.4,2733506
+2, The Shawshank Redemption,2004,Fantasy|Adventure,Frank Darabont,89,8.1,2047365
+3,Inception ,1972,Crime|Thriller,Quentin Tarantino,119,7.9,2897465
+4, Pulp Fiction ,1997,Crime | Thriller,Steven Spielberg,135,6.4,2607013
+5,Saving Private Ryan,2016,Adventure | Drama | Sci-Fi,Frank Darabont,85,6.4,2844977
+6,Inception ,1973,Horror | Thriller,Bong Joon Ho,128,8.7,1284435
+7,Parasite,2003,Adventure | Drama | Sci-Fi,Steven Spielberg,118,8.9,427309
+8,Pulp Fiction ,2000,"Adventure,Drama,Sci-Fi",Robert Zemeckis,85,8.7,1202953
+9,Avengers: Endgame,2010,Action|Adventure|Drama,David Fincher,100,8.2,2717412
+10,Inception,1972,Action | Sci-Fi, Ridley Scott,,7.1,1616244
+11,The Godfather,1974,Comedy|Drama|Thriller,Steven Spielberg,,6.3,1017056
+12, Gladiator ,2016,Horror|Thriller, Quentin Tarantino,158,8.0,2055657
+13,The Matrix,1991,Action|Adventure|Drama,Quentin Tarantino,107,6.4,742060
+14, Joker ,1990,Fantasy|Adventure,David Fincher,140,9.1,663139
+15,Se7en,2003,Action | Adventure | Drama,Frank Darabont,,6.7,481991
+16,Interstellar,2005,Action|Sci-Fi,Quentin Tarantino,114,7.1,213539
+17, The Dark Knight,2021,Horror|Thriller,David Fincher,117,7.3,1084346
+18,Parasite,1987,Crime|Drama,Francis Ford Coppola,156,7.0,154635
+19,Parasite,1973,Horror|Thriller,Quentin Tarantino,158,7.5,228014
+20,The Dark Knight ,1983,Action | Sci-Fi,Christopher Nolan,169,7.9,606437
+21,Joker,1973,Action|Crime|Drama,Quentin Tarantino,,7.9,1217634
+22, Saving Private Ryan,1989,Drama,Steven Spielberg,130,6.7,2670040
+23, The Green Mile,2022,Drama|Romance,Ridley Scott,175,9.2,1659686
+24,The Green Mile ,2001,Fantasy|Adventure, Martin Scorsese,169,6.0,2823496
+25,The Green Mile,2002,Drama,Frank Darabont,141,8.0,
+26,Forrest Gump,1978,Action | Crime | Drama,Christopher Nolan,157,7.6,2997057
+27,Fight Club,2012,Action|Crime|Drama,David Fincher,117,6.9,398585
+28, Joker,1984,Fantasy | Adventure,Martin Scorsese,132,6.3,1942572
+29,Saving Private Ryan,1977,Drama|Romance,Ridley Scott,173,7.1,
+30,Fight Club ,1974,"Action,Sci-Fi",Quentin Tarantino,173,7.2,
+31, The Godfather,1977,Comedy|Drama|Thriller, David Fincher,81,9.5,2353323
+32, Forrest Gump,1982,Crime|Thriller,Ridley Scott,99,8.3,1577791
+33,The Godfather,1999,Action|Sci-Fi,David Fincher,124,6.5,
+34, Saving Private Ryan,2009,Fantasy | Adventure,Quentin Tarantino,143,7.5,1370483
+35,Forrest Gump,1971,Horror|Thriller,Martin Scorsese,138,6.3,
+36,The Green Mile ,2018,Comedy|Drama|Thriller,Ridley Scott,127,8.4,1438625
+37,Pulp Fiction,2022,Action | Crime | Drama, Martin Scorsese,122,6.2,95800
+38,The Shawshank Redemption,2009,Drama | Romance,Francis Ford Coppola,150,9.2,1832031
+39,The Matrix ,2021,Action | Sci-Fi,Ridley Scott,94,6.8,1837898
+40,The Green Mile ,2012,Crime | Thriller,Steven Spielberg,141,7.1,484622
+41, Joker ,2014,Adventure|Drama|Sci-Fi,Martin Scorsese,171,7.3,311538
+42,Saving Private Ryan,2021,Action|Sci-Fi,Christopher Nolan,130,8.0,69943
+43,The Prestige,2023,Drama,Martin Scorsese,95,6.4,2922779
+44,Saving Private Ryan,1977,Action | Sci-Fi,Quentin Tarantino,173,8.9,2481010
+45,Whiplash,2019,Drama,Francis Ford Coppola,100,9.3,2771366
+46,Interstellar,2012,Crime|Drama,Martin Scorsese,131,7.9,812835
+47,The Green Mile,1998,Crime|Drama,Steven Spielberg,120,8.6,869207
+48, Gladiator ,2014,Action|Sci-Fi, Quentin Tarantino,,7.9,1059781
+49,The Godfather ,1974,Action|Sci-Fi,Christopher Nolan,95,6.0,1375371
+50, The Matrix ,1971,Drama,Christopher Nolan,116,8.8,181925
+51,The Prestige ,2006,Drama,Robert Zemeckis,153,7.2,2308631
+52, Fight Club ,1980,Adventure|Drama|Sci-Fi,Frank Darabont,150,6.5,
+53,Pulp Fiction,1994,Adventure | Drama | Sci-Fi,Ridley Scott,117,7.3,99267
+54,Goodfellas ,2021,Action|Adventure|Drama,Frank Darabont,134,7.3,2329574
+55,Interstellar,1992,Crime|Thriller,Francis Ford Coppola,103,6.5,1772279
+56,Saving Private Ryan,1980,Action | Sci-Fi,Frank Darabont,155,7.2,2397461
+57,Parasite ,1977,Biography | Drama,Christopher Nolan,167,8.1,1318194
+58,The Shawshank Redemption,1981,"Horror,Thriller",Quentin Tarantino,89,9.2,1472247
+59, Avengers: Endgame,1982,Fantasy|Adventure,Robert Zemeckis,112,9.0,565855
+60,Joker ,1989,Crime|Drama, Robert Zemeckis,148,,1922522
+61,Goodfellas,2009,"Action , Sci-Fi", Quentin Tarantino,121,7.3,2141955
+62,Se7en,1993,"Comedy,Drama,Thriller",David Fincher,83,9.1,839091
+63,Avengers: Endgame,2020,Action | Crime | Drama,Quentin Tarantino,105,9.4,1240951
+64,Fight Club ,2001,Action|Crime|Drama,Frank Darabont,93,7.1,656788
+65,Se7en,1978,Action|Sci-Fi,Steven Spielberg,130,8.9,625541
+66,Fight Club,2017,Drama,Christopher Nolan,130,6.4,2938899
+67,Se7en,1977,Drama | Romance,David Fincher,138,8.5,355677
+68,The Godfather,1977,Comedy|Drama|Thriller, Robert Zemeckis,129,8.8,1375802
+69, Se7en,1985,Drama,Francis Ford Coppola,177,8.3,1068537
+70,Interstellar ,2019,Action | Crime | Drama, Robert Zemeckis,110,7.1,1701157
+71,Fight Club,1979,Action|Adventure|Drama, Steven Spielberg,150,8.4,2804660
+72,Joker,2017,Action | Crime | Drama,Christopher Nolan,101,,1286028
+73, Pulp Fiction,2015,Drama|Romance, Francis Ford Coppola,141,,399593
+74,Parasite ,2003,"Drama,Romance",Martin Scorsese,93,7.7,1405764
+75,Forrest Gump,2003,Biography|Drama, Quentin Tarantino,89,9.5,885550
+76,The Silence of the Lambs,1971,Biography|Drama,Bong Joon Ho,157,7.2,259854
+77,Interstellar,2023,Crime|Drama,Robert Zemeckis,87,8.7,
+78, Joker ,1985,Drama|Romance,Christopher Nolan,157,8.0,1648957
+79,Forrest Gump ,1999,Crime | Thriller,Steven Spielberg,130,7.0,558192
+80,Saving Private Ryan,2005,Fantasy|Adventure,Martin Scorsese,88,7.8,2817117
+81,Parasite,1989,Action|Sci-Fi, Bong Joon Ho,90,6.7,1581153
+82,Goodfellas,1981,Action|Adventure|Drama, Bong Joon Ho,125,6.6,1718252
+83,The Prestige,1984,Action | Sci-Fi,Ridley Scott,168,6.3,1631441
+84,The Silence of the Lambs,1972,Action|Sci-Fi,Quentin Tarantino,83,8.4,231230
+85,Joker,2021,Action|Adventure|Drama,Robert Zemeckis,98,7.5,1583822
+86,Inception ,1973,Drama, Ridley Scott,,8.5,2647816
+87, The Green Mile ,2011,Fantasy | Adventure,Christopher Nolan,177,7.9,2306516
+88,Whiplash,2013,Comedy|Drama|Thriller,Martin Scorsese,115,8.3,2693654
+89, Fight Club ,1992,Drama|Romance,Francis Ford Coppola,104,8.7,2402697
+90,Se7en,1994,Adventure|Drama|Sci-Fi,Bong Joon Ho,161,,567007
+91,Goodfellas,2008,Adventure|Drama|Sci-Fi,Christopher Nolan,168,6.3,1358447
+92,Avengers: Endgame ,1974,Fantasy|Adventure,Ridley Scott,89,8.3,2339860
+93,Avengers: Endgame,2009,Action|Adventure|Drama,Robert Zemeckis,94,6.5,2929463
+94,Gladiator,2017,Action|Crime|Drama,Christopher Nolan,167,6.9,1643575
+95,Inception ,2009,Drama|Romance,Steven Spielberg,172,6.9,2105083
+96, Forrest Gump ,2006,Biography | Drama,Francis Ford Coppola,119,6.6,641843
+97,The Shawshank Redemption,1972,Horror|Thriller,Frank Darabont,150,7.0,2820949
+98,Whiplash ,1977,Action|Adventure|Drama,David Fincher,173,8.6,2689744
+99,The Green Mile ,2015,Crime|Thriller,Christopher Nolan,121,7.3,230917
+100,The Prestige,1992,Horror | Thriller,Ridley Scott,162,6.6,592840
+101,Avengers: Endgame ,2023,Action|Sci-Fi,Quentin Tarantino,161,7.9,1284651
+102,Whiplash,1995,Drama|Romance,Martin Scorsese,,7.7,1728089
+103, Pulp Fiction ,2017,Action | Sci-Fi,Bong Joon Ho,122,8.5,
+104, Forrest Gump ,1984,Drama|Romance,Robert Zemeckis,122,8.1,567566
+105,The Godfather,2007,Comedy | Drama | Thriller,David Fincher,100,7.1,1380819
+106,The Godfather,2014,Action|Sci-Fi,Quentin Tarantino,119,7.2,2532070
+107,The Godfather,2006,Adventure | Drama | Sci-Fi, Robert Zemeckis,166,6.7,1691270
+108,The Prestige ,1988,Drama,Bong Joon Ho,179,8.6,1363042
+109,Saving Private Ryan,1995,Action|Crime|Drama, Frank Darabont,174,,2734596
+110,Inception,2017,Action|Sci-Fi,David Fincher,158,7.2,859695
+111,Parasite,2006,Crime|Drama,Francis Ford Coppola,172,7.6,2132377
+112,The Dark Knight ,1970,Drama, Bong Joon Ho,106,9.3,1080402
+113, The Prestige,2016,Crime|Thriller,David Fincher,157,7.8,788009
+114,The Dark Knight,1993,"Horror , Thriller",Martin Scorsese,137,6.3,634480
+115,Avengers: Endgame,1981,"Crime,Drama",David Fincher,161,9.5,2509883
+116,Goodfellas ,1999,Horror|Thriller,Quentin Tarantino,89,6.9,1794058
+117, Whiplash ,2020,Comedy|Drama|Thriller, David Fincher,170,8.9,1042676
+118,Pulp Fiction,1990,Crime|Thriller,David Fincher,136,8.9,2585573
+119,Goodfellas,1985,Crime|Thriller,Frank Darabont,172,,1880442
+120, Interstellar ,1984,Comedy | Drama | Thriller,Quentin Tarantino,127,8.7,2795283
+121,Goodfellas,1990,Crime | Thriller,Christopher Nolan,108,7.6,1976029
+122,Goodfellas,1998,Drama,David Fincher,138,7.4,1063690
+123,Pulp Fiction,1970,Crime | Thriller,Christopher Nolan,82,7.8,2477864
+124,Gladiator ,2018,Horror | Thriller,Ridley Scott,153,8.7,2634591
+125,Interstellar,1992,Biography|Drama,Ridley Scott,108,7.3,2751681
+126, The Prestige,2020,Horror|Thriller,Martin Scorsese,96,8.2,1710425
+127, Forrest Gump,1970,Biography|Drama,David Fincher,153,9.0,2865717
+128, Saving Private Ryan ,1989,Fantasy|Adventure,Francis Ford Coppola,161,,2371380
+129, The Dark Knight ,2000,Biography | Drama,Francis Ford Coppola,148,8.9,1151180
+130,The Shawshank Redemption,1980,Crime | Thriller,Bong Joon Ho,82,7.0,2474704
+131,Pulp Fiction,1998,Biography|Drama, Martin Scorsese,173,9.3,1428563
+132, Gladiator ,2008,Fantasy|Adventure, Ridley Scott,95,8.1,2632333
+133,Se7en ,2005,Fantasy | Adventure,Christopher Nolan,98,7.8,580441
+134,The Shawshank Redemption,1972,Action | Adventure | Drama,Bong Joon Ho,175,8.2,
+135, Parasite ,2010,Crime | Drama,Ridley Scott,81,6.3,883172
+136,The Prestige,1996,Action|Sci-Fi,Francis Ford Coppola,167,8.4,1094454
+137, The Matrix,2023,Action|Sci-Fi,Frank Darabont,89,8.1,2056447
+138, Goodfellas,1970,Horror|Thriller,Steven Spielberg,126,6.2,2458389
+139,The Prestige,1997,Drama|Romance,Christopher Nolan,178,7.0,2685708
+140,Goodfellas ,2005,Action|Sci-Fi,Christopher Nolan,100,8.5,2645209
+141, Parasite,1983,Action|Sci-Fi,Robert Zemeckis,89,8.2,403414
+142, Gladiator,1999,Biography | Drama,Quentin Tarantino,113,9.2,1624122
+143,Se7en ,2002,Crime | Drama,Steven Spielberg,108,7.1,2720840
+144,Gladiator,1991,Adventure|Drama|Sci-Fi,Christopher Nolan,161,8.9,2423379
+145,Fight Club,1980,Drama|Romance,David Fincher,116,,2454256
+146, Parasite,2001,Drama,Steven Spielberg,,6.9,716361
+147,Fight Club,2006,Fantasy | Adventure, Bong Joon Ho,126,7.7,1848092
+148,Joker,2013,Action | Crime | Drama, Martin Scorsese,84,9.4,2476598
+149,Se7en ,2000,Biography | Drama,Robert Zemeckis,104,,58391
+150,Parasite ,2015,Crime|Thriller,Steven Spielberg,167,7.3,1374214
+151, Interstellar,2021,Biography|Drama, Martin Scorsese,92,8.3,
+152,Interstellar,2008,Crime|Drama,Quentin Tarantino,86,7.8,121070
+153,The Silence of the Lambs,1993,Drama|Romance,Steven Spielberg,86,9.5,2654262
+154,Se7en,1975,Action|Adventure|Drama,Frank Darabont,172,8.9,2278933
+155,The Matrix,2007,Crime|Thriller,Ridley Scott,175,6.8,2558944
+156,The Dark Knight ,1985,Action|Crime|Drama,Steven Spielberg,167,8.8,2168964
+157,Inception,1981,"Action,Crime,Drama", Robert Zemeckis,92,9.3,2177909
+158, Joker,2009,Crime|Thriller,Martin Scorsese,,7.5,1524623
+159,The Dark Knight,1989,Crime|Thriller, David Fincher,103,,1558543
+160,The Silence of the Lambs,1992,Crime|Drama,Frank Darabont,148,6.5,321559
+161,Avengers: Endgame ,1978,"Biography,Drama",Steven Spielberg,110,6.0,1666760
+162,Saving Private Ryan,1997,Drama,Frank Darabont,87,6.2,2604886
+163,Inception,2002,Drama,Bong Joon Ho,,8.9,132039
+164,The Prestige ,1994,Horror|Thriller,Ridley Scott,171,8.9,601078
+165, The Matrix,2015,Drama|Romance,Quentin Tarantino,134,8.4,1212375
+166,The Silence of the Lambs,2009,Comedy|Drama|Thriller,Bong Joon Ho,172,7.1,2345737
+167,The Silence of the Lambs,2011,Adventure|Drama|Sci-Fi,Francis Ford Coppola,113,7.0,403904
+168,Pulp Fiction,1983,Action|Adventure|Drama,Christopher Nolan,111,9.0,2128346
+169,Joker,2006,Adventure|Drama|Sci-Fi,Bong Joon Ho,168,,1811170
+170,Forrest Gump,2017,Fantasy|Adventure,Quentin Tarantino,151,9.2,2075709
+171,Joker,2013,Action|Adventure|Drama,Frank Darabont,110,8.0,1615333
+172,The Prestige,1981,Adventure|Drama|Sci-Fi,Frank Darabont,151,6.3,2383741
+173,The Shawshank Redemption,1976,Drama|Romance,Martin Scorsese,110,7.3,1018389
+174,Forrest Gump,2014,"Action , Adventure , Drama",Quentin Tarantino,160,8.0,2866426
+175,Goodfellas ,2007,Crime | Thriller,Martin Scorsese,84,6.5,197685
+176, Avengers: Endgame,1996,Action | Adventure | Drama,Christopher Nolan,98,9.4,271574
+177, Interstellar ,2020,Adventure|Drama|Sci-Fi, Martin Scorsese,,8.1,2653231
+178, The Dark Knight,1977,Fantasy|Adventure,Frank Darabont,107,8.3,1680421
+179, Joker,1984,Action|Sci-Fi, Steven Spielberg,159,7.9,2911304
+180,The Matrix ,2001,Adventure|Drama|Sci-Fi,Robert Zemeckis,80,,1200568
+181, Goodfellas,1988,Action|Sci-Fi,Steven Spielberg,111,9.4,2284580
+182,Interstellar ,2018,Action | Crime | Drama,Bong Joon Ho,83,6.2,2936252
+183, The Dark Knight,2018,Crime|Thriller,Bong Joon Ho,87,7.9,1396142
+184,The Green Mile,1990,Horror|Thriller,David Fincher,,6.5,1268626
+185,The Prestige,1979,Biography|Drama,Quentin Tarantino,88,7.9,114806
+186,Gladiator ,2009,Crime | Thriller,Robert Zemeckis,80,8.8,1962524
+187,Se7en ,2006,Action|Sci-Fi,Ridley Scott,177,,2074552
+188,The Green Mile,1974,"Action,Crime,Drama",David Fincher,157,7.7,2521369
+189, Fight Club ,1998,Adventure|Drama|Sci-Fi,Frank Darabont,140,8.9,2668401
+190, Fight Club ,2012,Drama | Romance,David Fincher,135,6.8,1434953
+191,Saving Private Ryan,2007,Action|Adventure|Drama,Martin Scorsese,153,6.5,2378833
+192,Interstellar,2001,Fantasy|Adventure,Ridley Scott,99,6.4,1806322
+193,The Silence of the Lambs,1979,Fantasy|Adventure,Steven Spielberg,,9.3,1118285
+194,Saving Private Ryan ,1974,Fantasy|Adventure,Frank Darabont,,9.0,1882569
+195,The Shawshank Redemption,1984,Crime|Thriller, Frank Darabont,91,6.9,1666045
+196, Interstellar,1992,Biography|Drama, Robert Zemeckis,110,6.7,2888812
+197, Saving Private Ryan,1999,Comedy | Drama | Thriller,Martin Scorsese,147,7.1,
+198,Forrest Gump,2012,Horror | Thriller,Ridley Scott,148,,2868836
+199,The Matrix,1987,Biography|Drama,Frank Darabont,115,9.4,423747
+200,Joker,1981,Action|Crime|Drama, Frank Darabont,143,6.1,484674
+201, The Matrix,2018,Adventure|Drama|Sci-Fi,Christopher Nolan,145,6.8,172695
+202,Whiplash,1983,Crime|Drama,Christopher Nolan,147,7.4,465656
+203, The Green Mile,1981,Biography | Drama,Christopher Nolan,150,8.7,2143281
+204, The Green Mile,1978,Adventure|Drama|Sci-Fi,Christopher Nolan,178,8.7,1863572
+205,Fight Club,1973,Drama|Romance, Steven Spielberg,177,6.1,1897192
+206, The Prestige,1980,Drama,Bong Joon Ho,122,6.6,2772766
+207,Pulp Fiction ,2004,Action|Crime|Drama,Ridley Scott,158,6.8,2497825
+208,Saving Private Ryan,1999,Action|Sci-Fi,Francis Ford Coppola,152,6.6,640041
+209,Pulp Fiction ,1972,"Adventure,Drama,Sci-Fi",Francis Ford Coppola,90,8.3,204416
+210,The Green Mile,1975,Fantasy | Adventure,Bong Joon Ho,153,7.6,2989104
+211, The Matrix,1993,Drama,David Fincher,158,9.0,2686682
+212, Gladiator ,1978,Action|Adventure|Drama, Quentin Tarantino,88,8.1,2416177
+213,The Shawshank Redemption,1977,Action|Sci-Fi,Martin Scorsese,,6.2,507426
+214,Saving Private Ryan,1995,Horror | Thriller,Bong Joon Ho,110,8.0,2905239
+215,The Matrix,2015,Drama,Robert Zemeckis,,6.2,
+216,Forrest Gump,1975,Comedy | Drama | Thriller,Bong Joon Ho,80,7.0,2620983
+217,Gladiator,2014,Action | Sci-Fi, Francis Ford Coppola,95,8.4,1571360
+218,Whiplash,2015,Comedy|Drama|Thriller,Martin Scorsese,172,8.2,1941465
+219,Whiplash,2000,Drama|Romance, Christopher Nolan,86,6.0,1638902
+220, Se7en,1982,Action|Sci-Fi,Martin Scorsese,174,9.2,51340
+221,The Shawshank Redemption,2012,Action|Crime|Drama,Quentin Tarantino,139,7.1,111929
+222,Whiplash,2019,Crime|Thriller,Martin Scorsese,93,,2818033
+223,The Matrix ,1974,Action|Crime|Drama,Martin Scorsese,109,6.8,1980798
+224,Joker,1998,Crime|Thriller, Steven Spielberg,88,7.5,2089494
+225,Goodfellas,2015,Drama | Romance,Ridley Scott,84,7.5,344344
+226,Fight Club,2012,Action | Crime | Drama,David Fincher,134,6.1,2266167
+227,The Godfather,2000,Action|Sci-Fi,Steven Spielberg,140,6.8,1597027
+228,Goodfellas,1993,Action|Crime|Drama,Christopher Nolan,82,8.4,1853447
+229, The Prestige,2017,"Action,Adventure,Drama",Quentin Tarantino,131,6.3,1334924
+230, Parasite,1985,Drama,Steven Spielberg,119,,747511
+231,Fight Club,2006,Crime | Thriller,David Fincher,170,7.7,1957673
+232,The Godfather,2013,"Biography , Drama",Martin Scorsese,156,,2656425
+233,Goodfellas ,1999,Action|Adventure|Drama,Robert Zemeckis,163,8.0,481656
+234, Se7en,1987,Crime|Thriller,Steven Spielberg,159,7.3,147474
+235, Fight Club,1977,Comedy | Drama | Thriller, Francis Ford Coppola,175,6.0,1855877
+236,Inception,1988,Horror|Thriller, Robert Zemeckis,137,7.7,289013
+237,Pulp Fiction ,1974,Drama|Romance,Martin Scorsese,121,8.3,2722093
+238,The Silence of the Lambs,1986,Crime|Drama,Frank Darabont,176,7.4,759606
+239,Se7en,2007,Action|Crime|Drama,Frank Darabont,121,6.5,2314619
+240,Inception,1978,Action|Crime|Drama,Frank Darabont,132,7.7,1328049
+241,Pulp Fiction,1970,Adventure|Drama|Sci-Fi,Quentin Tarantino,119,6.3,2242627
+242,Avengers: Endgame,2010,Action|Crime|Drama,Francis Ford Coppola,135,9.3,1410241
+243,Fight Club ,1996,Comedy|Drama|Thriller, David Fincher,103,,1444782
+244,Goodfellas,1984,Drama,Steven Spielberg,139,,195534
+245,The Green Mile,2001,Biography|Drama,Robert Zemeckis,157,8.2,2053737
+246, Whiplash ,2011,Adventure | Drama | Sci-Fi,Frank Darabont,104,7.4,1948327
+247,Gladiator,2022,Action|Crime|Drama,Steven Spielberg,130,6.2,255222
+248,The Green Mile,1988,Comedy|Drama|Thriller,David Fincher,83,7.0,2412864
+249, Inception,1992,Horror|Thriller,Frank Darabont,111,7.3,215522
+250,Pulp Fiction,2006,Action | Adventure | Drama, Quentin Tarantino,111,6.7,1515705
+251,The Shawshank Redemption,1977,Action | Sci-Fi,Robert Zemeckis,112,8.8,2644324
+252,Fight Club,1987,Drama | Romance,Bong Joon Ho,117,7.6,
+253, Whiplash,2023,Crime|Thriller, Martin Scorsese,144,7.7,1674305
+254,The Prestige,2007,Crime|Thriller,Quentin Tarantino,82,,1263239
+255,The Godfather ,1993,Action|Crime|Drama,Quentin Tarantino,158,9.3,2348550
+256,The Prestige,2014,Action|Crime|Drama,Bong Joon Ho,92,8.9,918344
+257,Fight Club ,1979,Action | Sci-Fi,Quentin Tarantino,96,6.5,367091
+258,Pulp Fiction,2017,Crime|Drama, Robert Zemeckis,,9.1,2283021
+259,Fight Club,1976,Crime | Thriller,Bong Joon Ho,155,6.3,2151124
+260,Goodfellas,1974,Crime|Drama,Bong Joon Ho,146,8.3,1911771
+261,The Dark Knight,2003,Action|Crime|Drama, Quentin Tarantino,113,6.5,2686249
+262,Forrest Gump,1994,Action|Sci-Fi,David Fincher,136,7.9,845778
+263,The Godfather,2017,Action|Sci-Fi,Francis Ford Coppola,174,7.5,646020
+264, Gladiator ,2021,Comedy|Drama|Thriller,Francis Ford Coppola,166,,2826184
+265,The Silence of the Lambs,2021,Crime|Drama,Frank Darabont,128,6.0,2281066
+266,The Green Mile,2010,Action | Crime | Drama,Robert Zemeckis,113,7.8,145866
+267,Forrest Gump,1995,Action | Sci-Fi, Quentin Tarantino,,6.8,1617188
+268,Gladiator,1998,Horror|Thriller,Frank Darabont,,8.5,2384304
+269, The Matrix ,2023,Drama | Romance,Ridley Scott,140,6.6,282161
+270, Parasite,2016,Action|Sci-Fi,Francis Ford Coppola,93,6.5,2015728
+271, Interstellar,2004,Biography|Drama,Bong Joon Ho,178,9.5,
+272,Forrest Gump ,1975,Action|Adventure|Drama,Quentin Tarantino,98,6.9,1196653
+273,Forrest Gump,2016,Drama,Steven Spielberg,94,6.6,361889
+274, Interstellar,1977,Adventure|Drama|Sci-Fi,Quentin Tarantino,165,6.4,192998
+275,Forrest Gump,2021,Action | Adventure | Drama,Ridley Scott,132,6.1,
+276,Saving Private Ryan,2003,Drama,Bong Joon Ho,110,7.6,2203615
+277,The Prestige ,1979,Action | Crime | Drama, Ridley Scott,104,6.5,2211816
+278,Fight Club,1981,Drama,Ridley Scott,109,8.5,2982235
+279,Saving Private Ryan,1984,Adventure|Drama|Sci-Fi,Robert Zemeckis,,8.1,1073620
+280,The Silence of the Lambs ,2010,Adventure|Drama|Sci-Fi, Ridley Scott,111,7.0,2541535
+281,Interstellar,2013,Crime|Thriller,Steven Spielberg,,6.9,2144840
+282,Parasite,1990,Crime | Drama,Bong Joon Ho,123,7.7,531740
+283,Joker,2003,"Action , Crime , Drama", David Fincher,166,7.6,402669
+284,Pulp Fiction ,2002,"Fantasy , Adventure",Martin Scorsese,149,7.2,2509135
+285, The Silence of the Lambs ,2007,Action|Crime|Drama, Christopher Nolan,173,6.2,536895
+286,Saving Private Ryan,1999,Drama, Francis Ford Coppola,162,9.5,1536672
+287, Gladiator,1985,Action|Adventure|Drama,Bong Joon Ho,172,9.1,1055421
+288,The Silence of the Lambs,1970,Action|Adventure|Drama,Francis Ford Coppola,156,,2052590
+289,The Prestige,1994,Comedy|Drama|Thriller, David Fincher,95,7.1,2018086
+290,The Silence of the Lambs,1992,"Biography , Drama",Quentin Tarantino,88,,2854839
+291,Whiplash,1976,"Comedy , Drama , Thriller",Christopher Nolan,147,7.9,1199089
+292,Goodfellas,1975,Comedy|Drama|Thriller, Ridley Scott,,8.7,2642309
+293,Whiplash,2012,Biography|Drama,Francis Ford Coppola,132,8.1,1581134
+294, The Godfather,1986,Drama | Romance, Martin Scorsese,163,6.8,90594
+295, The Green Mile,2012,Comedy | Drama | Thriller,Francis Ford Coppola,,7.7,1345587
+296,Saving Private Ryan ,1974,Fantasy | Adventure,Frank Darabont,159,9.4,1576983
+297,Se7en,1989,Fantasy|Adventure,Quentin Tarantino,80,7.3,970018
+298,Joker,1992,"Horror,Thriller",Steven Spielberg,121,7.0,
+299,Interstellar,1986,Crime|Thriller,Quentin Tarantino,126,6.4,473484
+300,The Godfather,2011,Crime | Drama,Christopher Nolan,139,6.3,
+301,The Dark Knight ,1974,Comedy|Drama|Thriller,Christopher Nolan,104,6.0,2982080
+302,The Silence of the Lambs,1990,Comedy|Drama|Thriller,David Fincher,,6.2,2533097
+303,Pulp Fiction ,2010,Drama,Ridley Scott,160,8.9,2261789
+304,The Dark Knight,1992,Horror|Thriller, Steven Spielberg,133,6.9,1978969
+305, The Shawshank Redemption ,2013,Drama|Romance, Martin Scorsese,109,9.3,2826966
+306,Gladiator,1986,Action|Adventure|Drama,Christopher Nolan,,6.8,1988683
+307,The Dark Knight,2013,Action|Adventure|Drama,Martin Scorsese,176,,1041326
+308,The Green Mile,1972,"Horror,Thriller", David Fincher,143,7.4,549862
+309,The Matrix,2004,Drama|Romance,David Fincher,176,6.0,781773
+310,The Silence of the Lambs ,2019,Action | Crime | Drama,Robert Zemeckis,149,8.2,936555
+311,The Green Mile,1995,Biography|Drama,Francis Ford Coppola,110,6.5,191074
+312,Interstellar,1970,Fantasy|Adventure,Robert Zemeckis,133,7.2,2145353
+313, Gladiator ,1993,Drama,Ridley Scott,159,7.5,
+314,Whiplash,2022,Drama,Martin Scorsese,176,6.7,698726
+315,Forrest Gump,1990,Adventure|Drama|Sci-Fi,Bong Joon Ho,128,6.7,2548718
+316, Forrest Gump,2020,Drama|Romance, Ridley Scott,150,9.2,
+317, The Godfather ,1999,Action | Crime | Drama,Quentin Tarantino,141,6.1,2997921
+318, The Green Mile,1992,Action|Crime|Drama,Steven Spielberg,136,8.8,2899055
+319,Inception,1988,Crime | Drama, Bong Joon Ho,118,6.6,1246281
+320,The Green Mile,1978,Crime|Drama,Ridley Scott,,8.1,1967881
+321,Inception,1992,Drama,Christopher Nolan,102,6.9,1987769
+322,Forrest Gump ,1989,Drama, Bong Joon Ho,165,8.5,846544
+323, Parasite,1978,Adventure|Drama|Sci-Fi,David Fincher,122,6.5,1549371
+324,The Shawshank Redemption,2005,"Drama,Romance",Quentin Tarantino,99,6.4,214276
+325, Inception,1990,Drama | Romance, Robert Zemeckis,117,6.9,1538415
+326,Whiplash,1982,Crime|Drama, Frank Darabont,103,7.1,
+327, Forrest Gump,1980,Drama|Romance,Robert Zemeckis,84,6.8,888591
+328,Fight Club ,1996,Adventure | Drama | Sci-Fi,Francis Ford Coppola,119,7.5,2037173
+329, Forrest Gump ,1995,Action | Crime | Drama,Quentin Tarantino,109,7.1,1687501
+330,Inception ,1991,Biography | Drama,Francis Ford Coppola,110,9.2,1425915
+331,The Prestige ,1979,Drama | Romance,Christopher Nolan,,8.0,889833
+332,Saving Private Ryan,1992,"Action,Crime,Drama",Frank Darabont,119,6.3,1834203
+333, Avengers: Endgame ,1970,Action | Sci-Fi, Bong Joon Ho,166,7.6,2733947
+334,Pulp Fiction ,1986,Drama, Ridley Scott,171,8.0,428148
+335, The Dark Knight,1997,"Crime , Thriller",Robert Zemeckis,154,9.2,206591
+336,The Green Mile,2003,Horror|Thriller, Frank Darabont,139,9.1,2104006
+337,Whiplash ,1970,Drama,Christopher Nolan,94,6.5,2304569
+338,The Shawshank Redemption,2013,Action|Sci-Fi,Bong Joon Ho,131,6.1,2081207
+339,Se7en,2010,Adventure|Drama|Sci-Fi,Bong Joon Ho,177,8.3,1773426
+340,The Shawshank Redemption ,2023,"Action,Crime,Drama",Frank Darabont,124,6.9,2005430
+341,Joker,2021,Drama, Ridley Scott,124,6.5,508284
+342,Pulp Fiction ,2021,Horror | Thriller,David Fincher,132,8.0,1472252
+343,Joker ,1999,Crime|Drama, Steven Spielberg,,6.9,
+344, Gladiator,2001,Biography | Drama,Ridley Scott,155,9.5,2402317
+345, Gladiator,2020,"Adventure , Drama , Sci-Fi",Frank Darabont,151,6.2,2093931
+346,Saving Private Ryan,2023,Biography|Drama,Christopher Nolan,170,6.8,1959594
+347, Forrest Gump,2019,"Horror,Thriller",Robert Zemeckis,124,8.0,2903476
+348, The Godfather ,2009,Comedy|Drama|Thriller,Robert Zemeckis,170,,2383460
+349, The Silence of the Lambs,1979,Comedy | Drama | Thriller,Frank Darabont,102,8.0,449193
+350,Whiplash,1993,Fantasy | Adventure,Ridley Scott,88,6.1,607835
+351,Whiplash,1986,Drama,David Fincher,96,8.8,2359952
+352,Gladiator,2010,Action|Sci-Fi, Steven Spielberg,152,8.0,826461
+353, Inception,2015,"Action,Crime,Drama",David Fincher,141,7.4,2048855
+354, Gladiator ,1997,Crime|Thriller, David Fincher,147,6.7,1618847
+355, Parasite,1998,Drama,Frank Darabont,169,,950499
+356,The Prestige,2001,Fantasy|Adventure,Quentin Tarantino,100,8.9,108591
+357,Se7en,2008,Action|Sci-Fi,Christopher Nolan,115,7.7,606056
+358,The Green Mile ,1998,Comedy|Drama|Thriller, Christopher Nolan,98,8.9,2418895
+359,Gladiator,2020,Action|Crime|Drama,Frank Darabont,176,8.8,1950563
+360,The Godfather,1973,Drama,Ridley Scott,159,7.1,1664525
+361, Avengers: Endgame,2012,Drama,Robert Zemeckis,106,8.4,1421679
+362,Forrest Gump,2023,Crime | Thriller,Martin Scorsese,163,8.6,2059814
+363,Gladiator,1988,Horror | Thriller, Christopher Nolan,176,6.1,1205867
+364, Interstellar,1998,Action | Adventure | Drama, Ridley Scott,84,,2245333
+365,Fight Club,1976,Fantasy|Adventure,Ridley Scott,82,6.7,755200
+366,Whiplash,1977,Crime | Drama, Bong Joon Ho,179,7.0,2435074
+367,Goodfellas,1988,Fantasy | Adventure, Bong Joon Ho,123,,2668191
+368, The Green Mile,1996,"Drama , Romance",Martin Scorsese,146,6.4,1966295
+369,The Prestige,1973,Action | Adventure | Drama,Ridley Scott,118,8.2,2124351
+370,The Shawshank Redemption,1995,Action | Sci-Fi,Frank Darabont,83,7.1,786845
+371,The Shawshank Redemption ,1997,Action | Crime | Drama,Quentin Tarantino,157,8.4,1800831
+372, Forrest Gump ,2003,Comedy|Drama|Thriller,Steven Spielberg,175,6.8,2639786
+373,Interstellar ,2009,Crime|Thriller,Bong Joon Ho,145,7.3,485606
+374, The Prestige,1991,Drama,Christopher Nolan,92,8.0,2565329
+375,Gladiator,1985,Action|Sci-Fi, Martin Scorsese,149,9.0,817815
+376,Goodfellas ,2007,Action | Adventure | Drama,David Fincher,106,9.2,2472326
+377, Whiplash,1986,"Adventure , Drama , Sci-Fi",Christopher Nolan,177,8.8,1572507
+378, The Shawshank Redemption,2007,Crime|Thriller,Francis Ford Coppola,108,7.1,2479588
+379, The Godfather,2007,Adventure|Drama|Sci-Fi,Martin Scorsese,,9.0,2825289
+380, The Matrix ,2019,Biography | Drama, David Fincher,151,7.8,1240122
+381, Forrest Gump,2021,Biography|Drama,Martin Scorsese,89,6.2,1453447
+382, Forrest Gump ,1998,Horror | Thriller, Quentin Tarantino,158,7.4,2002560
+383,Parasite,1997,Crime|Thriller, Frank Darabont,143,6.2,1473597
+384,Goodfellas,1970,Crime | Drama,Robert Zemeckis,90,6.5,551584
+385, Fight Club ,1996,"Horror , Thriller",Bong Joon Ho,171,9.1,1640513
+386,Joker,2020,Adventure|Drama|Sci-Fi,Frank Darabont,117,8.9,2560860
+387,Goodfellas,1988,Action | Sci-Fi, Martin Scorsese,141,9.4,388703
+388, The Dark Knight,2017,Fantasy|Adventure,Bong Joon Ho,159,9.1,1235100
+389,The Matrix,2012,Drama|Romance,Robert Zemeckis,85,8.4,2534176
+390, The Godfather,1971,Fantasy|Adventure,Steven Spielberg,,9.1,1545396
+391,The Matrix,1976,Biography|Drama,Quentin Tarantino,171,6.4,2440301
+392,Se7en,1974,Biography|Drama,Christopher Nolan,157,7.0,2395996
+393,The Matrix,2020,Drama,Francis Ford Coppola,171,,2675386
+394,The Prestige ,2012,"Crime,Thriller",Bong Joon Ho,146,9.3,
+395,Goodfellas ,1998,Drama,Steven Spielberg,143,8.8,2712293
+396,The Silence of the Lambs,1990,Drama|Romance,Steven Spielberg,86,7.6,113672
+397,Avengers: Endgame,1985,Comedy|Drama|Thriller, Francis Ford Coppola,120,8.9,2587614
+398,Forrest Gump ,1992,Crime|Thriller,Quentin Tarantino,114,9.4,686567
+399,Goodfellas,2014,Adventure|Drama|Sci-Fi,Ridley Scott,,8.1,2374437
+400, Whiplash,1989,Drama, Robert Zemeckis,108,7.3,1130681
+401,Fight Club,1971,Crime|Drama, Christopher Nolan,124,9.0,2243008
+402,The Green Mile ,1987,Horror | Thriller,Ridley Scott,91,7.4,881317
+403, Forrest Gump ,2021,Comedy|Drama|Thriller,Francis Ford Coppola,129,7.1,1546556
+404, Avengers: Endgame,1978,Adventure|Drama|Sci-Fi,Martin Scorsese,,6.9,555200
+405, Forrest Gump,2007,Crime|Drama,Francis Ford Coppola,102,9.3,695467
+406, Se7en,1973,Crime|Thriller,Francis Ford Coppola,125,7.6,120468
+407, Gladiator ,1975,Comedy|Drama|Thriller,Christopher Nolan,126,6.9,1715684
+408,Saving Private Ryan,1995,Drama, Steven Spielberg,130,6.4,226508
+409,Inception,2012,Fantasy | Adventure,Francis Ford Coppola,159,6.1,1934815
+410,The Green Mile,2011,Drama, Bong Joon Ho,139,9.2,1332485
+411, Inception,1991,Action|Sci-Fi,David Fincher,83,6.9,698855
+412,The Shawshank Redemption ,1985,Drama|Romance,Bong Joon Ho,158,7.8,966195
+413,Inception ,2005,Adventure|Drama|Sci-Fi,Francis Ford Coppola,159,6.6,2608198
+414,The Silence of the Lambs,2017,Fantasy|Adventure,Bong Joon Ho,96,7.5,851775
+415, Saving Private Ryan,2008,Crime|Thriller,Martin Scorsese,166,8.1,74420
+416,Pulp Fiction ,1983,Biography|Drama,Francis Ford Coppola,178,7.0,717204
+417,Joker ,2008,Fantasy|Adventure,Christopher Nolan,115,8.6,
+418,The Silence of the Lambs,1976,Adventure|Drama|Sci-Fi,Francis Ford Coppola,80,7.6,2161123
+419,Pulp Fiction,2008,Drama|Romance,Francis Ford Coppola,157,6.7,1200531
+420,Whiplash,1970,"Comedy,Drama,Thriller",Frank Darabont,139,8.5,2439825
+421,Fight Club ,2012,Fantasy|Adventure,Steven Spielberg,104,,266404
+422,Interstellar ,2008,Action | Crime | Drama, Quentin Tarantino,169,9.0,1978064
+423,Inception,1989,Action|Crime|Drama,Ridley Scott,135,9.1,2243038
+424,Forrest Gump,1978,Fantasy|Adventure,David Fincher,93,8.7,425439
+425,Interstellar ,1998,Biography|Drama, Robert Zemeckis,111,8.8,1636547
+426,Whiplash,1973,"Action,Crime,Drama", Martin Scorsese,112,7.6,2400961
+427,The Green Mile,2006,Biography|Drama,Steven Spielberg,143,6.1,988468
+428,Whiplash,1990,Action|Crime|Drama, Quentin Tarantino,122,9.3,492777
+429,Forrest Gump,1983,"Fantasy,Adventure",Robert Zemeckis,131,6.3,542106
+430, The Prestige,1988,Action|Sci-Fi,Francis Ford Coppola,107,7.4,569744
+431,Saving Private Ryan ,1999,Biography | Drama,Martin Scorsese,159,9.3,2721241
+432,Pulp Fiction,2018,Drama,Francis Ford Coppola,109,,623500
+433,Pulp Fiction,2012,Action|Adventure|Drama,Christopher Nolan,178,8.4,1161668
+434, Interstellar,2000,Crime|Drama,Frank Darabont,143,8.7,1259080
+435,Inception,1992,Crime|Drama,Christopher Nolan,104,6.1,1984757
+436,Joker,1997,Comedy | Drama | Thriller, Christopher Nolan,156,7.5,1489368
+437,Avengers: Endgame,1994,Action|Sci-Fi,Bong Joon Ho,135,9.1,318948
+438,Inception,2000,Drama,Bong Joon Ho,99,,855816
+439,Se7en ,1980,Horror|Thriller,David Fincher,170,7.3,1118127
+440,The Silence of the Lambs,1992,"Action , Crime , Drama",Ridley Scott,104,6.3,2939855
+441,Inception,1974,Crime | Drama,Martin Scorsese,169,6.3,1571748
+442, The Godfather,1977,"Comedy,Drama,Thriller", Robert Zemeckis,83,8.0,547111
+443,Gladiator,1983,Horror|Thriller,Bong Joon Ho,,8.1,1889958
+444,The Silence of the Lambs,1998,Drama | Romance, Steven Spielberg,152,8.2,2004221
+445,Fight Club,1997,Crime | Thriller,Christopher Nolan,111,6.8,719406
+446,Inception,2023,Comedy|Drama|Thriller,Bong Joon Ho,81,8.2,276728
+447,Avengers: Endgame,1999,Fantasy | Adventure,Francis Ford Coppola,131,7.7,2942782
+448, Parasite ,2009,Adventure|Drama|Sci-Fi,Christopher Nolan,145,8.0,637975
+449,The Godfather,2020,Action|Adventure|Drama,David Fincher,174,7.3,2246033
+450, Whiplash,1985,Crime|Drama,Christopher Nolan,111,7.9,660326
+451, Joker,1999,Biography|Drama,Quentin Tarantino,179,8.3,1508045
+452,Gladiator ,2022,Drama,Bong Joon Ho,156,8.7,2511921
+453,Inception,1981,Crime | Thriller,Ridley Scott,167,7.2,758224
+454,Forrest Gump,2019,Action|Crime|Drama,Francis Ford Coppola,145,6.6,1764620
+455,Avengers: Endgame ,2023,Comedy|Drama|Thriller,Quentin Tarantino,115,8.1,1726220
+456, Inception,2022,Fantasy|Adventure,Frank Darabont,143,8.6,2981575
+457,Pulp Fiction,2002,Drama|Romance, Frank Darabont,137,7.9,290012
+458,Parasite ,2007,"Action,Sci-Fi", David Fincher,92,7.0,584975
+459, Fight Club,1978,Biography|Drama, Frank Darabont,110,6.5,1587889
+460,Goodfellas ,1988,Fantasy|Adventure,Robert Zemeckis,85,7.6,451145
+461, The Prestige,1971,Biography|Drama,David Fincher,122,6.0,1622446
+462,The Shawshank Redemption ,1982,Action|Crime|Drama,Christopher Nolan,163,8.9,2453272
+463, Forrest Gump,2017,Fantasy|Adventure,Francis Ford Coppola,83,8.1,2452267
+464,Inception,2006,Drama, Frank Darabont,120,9.3,638898
+465, The Shawshank Redemption,2011,Adventure | Drama | Sci-Fi,Francis Ford Coppola,146,6.6,709025
+466, Interstellar,1987,Action | Adventure | Drama,David Fincher,133,8.2,1289611
+467,Pulp Fiction,2013,Biography|Drama,David Fincher,109,8.6,1788808
+468,The Godfather,1995,Action | Adventure | Drama,Martin Scorsese,169,6.6,366353
+469,Saving Private Ryan,2013,"Adventure,Drama,Sci-Fi",Christopher Nolan,,7.9,
+470, The Silence of the Lambs,2004,Adventure|Drama|Sci-Fi,David Fincher,106,8.1,510242
+471, The Green Mile ,2012,Adventure|Drama|Sci-Fi,David Fincher,137,8.6,705583
+472, Gladiator,1989,Crime|Drama,Bong Joon Ho,85,6.3,848394
+473,The Matrix,1994,Action|Crime|Drama, Ridley Scott,138,9.3,2562555
+474,Pulp Fiction ,2012,"Action , Sci-Fi",Steven Spielberg,101,9.3,2754018
+475,Avengers: Endgame ,2006,Crime|Thriller, Steven Spielberg,126,8.8,2098116
+476,The Shawshank Redemption ,1995,Drama | Romance,Bong Joon Ho,,9.0,750022
+477,Gladiator ,1982,Drama|Romance,Frank Darabont,173,7.3,
+478,Goodfellas,2021,"Adventure , Drama , Sci-Fi",Francis Ford Coppola,122,7.7,
+479,The Matrix,2004,Biography|Drama,David Fincher,125,8.7,1496761
+480,The Godfather,1973,Drama | Romance, Bong Joon Ho,179,8.8,439232
+481,The Shawshank Redemption ,2013,Crime|Drama,Bong Joon Ho,101,7.6,
+482,Forrest Gump,1991,Horror | Thriller,Martin Scorsese,97,6.9,2904584
+483, Interstellar,2008,Action|Crime|Drama,Francis Ford Coppola,108,9.3,1528046
+484,The Green Mile ,1974,Adventure|Drama|Sci-Fi,Martin Scorsese,147,6.4,2327071
+485,The Godfather ,1988,Horror|Thriller,Christopher Nolan,141,8.8,2835950
+486,Se7en,1994,"Action,Sci-Fi", Robert Zemeckis,133,6.6,
+487,Inception ,2017,Drama | Romance,Quentin Tarantino,89,9.0,2630422
+488,The Prestige,1978,Action|Sci-Fi, Frank Darabont,132,9.2,155773
+489,Fight Club,2006,Horror|Thriller, Frank Darabont,107,,1221719
+490,Joker,1997,"Action , Crime , Drama",Robert Zemeckis,116,6.5,2347566
+491,Whiplash ,1976,Horror | Thriller, Frank Darabont,169,9.5,156229
+492,Pulp Fiction ,2011,Crime|Drama,Martin Scorsese,87,6.5,316513
+493, Whiplash,2011,Comedy|Drama|Thriller,Ridley Scott,169,6.3,1910501
+494,The Dark Knight ,1983,Biography|Drama,Bong Joon Ho,122,6.5,1612788
+495, Avengers: Endgame,1997,Action|Sci-Fi, Christopher Nolan,83,8.3,1705209
+496, Forrest Gump,1971,Fantasy|Adventure,Bong Joon Ho,170,8.6,1134407
+497,Gladiator,1981,Action|Crime|Drama,Christopher Nolan,84,6.7,1515705
+498,Saving Private Ryan,1979,"Fantasy , Adventure",Steven Spielberg,175,8.6,814429
+499,Joker,2010,Drama,Quentin Tarantino,138,,712866
+500,Saving Private Ryan,1975,"Fantasy,Adventure",Quentin Tarantino,159,7.3,2644297
